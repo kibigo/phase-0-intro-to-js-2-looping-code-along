@@ -3,6 +3,7 @@ for (let age = 30; age<40; age++) {
     
 }
 
+
 const gifts = ["teddy bear", "drone", "doll"];
 
 function wrapGifts(gifts) {
